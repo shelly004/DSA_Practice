@@ -9,3 +9,4 @@ This repository will contain all the DSA problems Solved by me.
 | Problem      | Topic     | Date      | Difficulty |
 |--------------|-----------|-----------|------------|
 |Two Sum       |Arrays     |12-01-2025 |Easy        |
+|Sort-0-1-2    |Arrays     |12-01-2025 |Easy        |
